@@ -5,3 +5,5 @@ Today I needed to export some graphics from old flash games to use them in Unity
 1. You need Inkscape: https://inkscape.org/
 2. You need to set the environment variable, just ask ChatGPT for step by step instructions lol
 3. Drag and drop your .svg onto the .bat file. THIS REPLACES THE ORIGINAL SVG AND OVERWRITES IT!
+
+This file is very simple. I might or might not bother myself building a webinterface for this. If there is any demand do let me know maybe Ill actually do it.
